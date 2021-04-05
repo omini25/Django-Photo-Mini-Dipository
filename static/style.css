@@ -1,0 +1,13 @@
+.card-img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.inImg{
+    height: 90vh;
+}
+
+.imgPhoto{
+    max-width: 100%;
+    max-height: 100%;
+}
